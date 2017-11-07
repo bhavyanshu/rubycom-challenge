@@ -17,3 +17,10 @@ rails add_apple_to_basket["Red",27]
 # Result: All baskets are full. We couldn't find the place for 14 apples
 # because 54-(27+13) = 14
 ```
+
+# For Task 3
+
+```bash
+ruby task3/share_apple.rb
+ruby task3/eat_apple.rb
+```
